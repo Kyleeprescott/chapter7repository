@@ -73,11 +73,18 @@ for (int i = 0; i < numbers .length; ++i) {
         max = numbers[i];
     }
 }
+int median = numbers.length/2;
+if (numbers.length%2 == 1) {
+    double x =  numbers[median];
+} else {
+    double x =  (numbers[median-1] + numbers[median]) / 2.0;
+}
+System.out.println("The Mode is" +mode);
+System.out.println("The median is " +median);
 
+}
 
-
- 
 		
 	}
 
-}
+
