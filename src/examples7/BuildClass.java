@@ -11,8 +11,8 @@ public class BuildClass {
 		 youracc.address = "1354 W 245N ";
 		 myacc.balance = 25000000;
 		  youracc.balance = .25;
-		  myacc.phone = "4359466929";
-		  youracc.phone = "8015205571";
+		  myacc.phone = "435-946-6929";
+		  youracc.phone = "801-520-5571";
 		  System.out.println(myacc.name);
 		  System.out.println(myacc.address);
 		  System.out.println(myacc.phone);
