@@ -12,8 +12,8 @@ public class FoodList {
 		 
 
 		
-		Oreos.typeOfFood = "Snack";
-		Oreos.cost= 3;
+		Oreos.setTypetypeOfFood("Snack");
+		Oreos.setcost(3);
 		Oreos.weight = 14.5;
 		Oreos.Measurment="Grams";
 		Oreos.servingSize= " 6 Cookies";
