@@ -46,9 +46,9 @@ public class NumberAnalyzer {
 		
 			
 		}
-System.out.println(min);
-System.out.println(max);
-System.out.println(average);
+System.out.println("The minimum is "+min);
+System.out.println("The maximum is"+max);
+System.out.println("The average is "+average);
 double mean= numbers[0];
 
 for(double element:numbers) {

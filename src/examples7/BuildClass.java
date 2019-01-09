@@ -9,7 +9,7 @@ public class BuildClass {
 		youracc.name = "Erik BroadBent";
 		myacc.address = "423E 1370N";
 		 youracc.address = "1354 W 245N ";
-		 myacc.balance = 25000000;
+		 myacc.balance = 250;
 		  youracc.balance = .25;
 		  myacc.phone = "435-946-6929";
 		  youracc.phone = "801-520-5571";
